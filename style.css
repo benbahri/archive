@@ -120,7 +120,7 @@ margin: 0px 0 11px;
 	color: #888888;
 }
 .banner {
-background: url(../images/banner.jpg) no-repeat;
+background: url(images/banner.jpg) no-repeat;
 background-size: cover;
 -webkit-background-size: cover;
 -moz-background-size: cover;
@@ -808,7 +808,7 @@ font-weight: 400;
 margin-bottom:1em;
 }
 .about-grid2 li {
-list-style-image: url(../images/icon3.png);
+list-style-image: url(images/icon3.png);
 margin: 0 0 10px 20px;
 }
 .about-grid2 li a {
@@ -1538,7 +1538,7 @@ top: 20px;
 right: 15px;
 }
 .head-nav span.menu:before{
-	content:url(../images/menu.png);
+	content:url(images/menu.png);
 	color:#FFF;
 	text-align:right;
 	cursor:pointer;
@@ -1703,7 +1703,7 @@ font-size: 1em;
   font-size:0.85em;
 }
 .banner {
-  background: url(../images/banner.jpg) no-repeat 0px -350px;
+  background: url(images/banner.jpg) no-repeat 0px -350px;
   padding: 9em 0 0;
 }
 .banner-left {
